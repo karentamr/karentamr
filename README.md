@@ -4,6 +4,9 @@
 
 A passionate MERN stack developer from [Montreal, Canada](http://www.vanishingmontreal.com/).
 
+## 🎯 Capstone Project
+- [Loop d'Abord](https://github.com/karentamr/loop-dabord) - Easy-to-use, web-based pedal looper application designed for live music practice, offering features such as recording, playing and deleting seamless audio loops, adjustable master loop length and speed, and custom crossfade timings.
+
 ## 🔧 Technologies & Tools
 
 | OS          | Editor                     | Code                        | Frameworks/Libraries      |
@@ -22,5 +25,4 @@ A passionate MERN stack developer from [Montreal, Canada](http://www.vanishingmo
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karentamr&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your Name's GitHub Stats" />
 </a>
 
-## 🎯 Projects
-- [Loop d'Abord](https://github.com/karentamr/loop-dabord) - Easy-to-use, web-based pedal looper application designed for live music practice, offering features such as recording, playing and deleting seamless audio loops, adjustable master loop length and speed, and custom crossfade timings.
+
