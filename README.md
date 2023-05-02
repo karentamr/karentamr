@@ -26,13 +26,6 @@ A passionate MERN stack developer from [Montreal, Canada](http://www.vanishingmo
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your Name's GitHub Stats" />
 </a>
 
-## 🛠️ Skills
-- MERN stack
-- Java
-- CSS
-- JS
-- HTML5
-
 ## 💼 Experience
 - **Software Engineer** at XYZ, Inc. (Jan 2022 - Present)
 - **Intern** at ABC, LLC (May 2021 - Aug 2021)
@@ -43,10 +36,4 @@ A passionate MERN stack developer from [Montreal, Canada](http://www.vanishingmo
 
 ## 🎯 Projects
 - [Project 1](https://example.com/project1) - Short project description
-- [Project 2](https://example.com/project2) - Short project description
-- [Project 3](https://example.com/project3) - Short project description
 
-## 📫 Contact Me
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://www.linkedin.com/in/YourName/)
-- [Portfolio](https://example.com/)
