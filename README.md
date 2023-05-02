@@ -22,14 +22,5 @@ A passionate MERN stack developer from [Montreal, Canada](http://www.vanishingmo
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karentamr&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your Name's GitHub Stats" />
 </a>
 
-## 💼 Experience
-- **Software Engineer** at XYZ, Inc. (Jan 2022 - Present)
-- **Intern** at ABC, LLC (May 2021 - Aug 2021)
-
-## 🌱 Education
-- **B.S. Computer Science** from University of XYZ (2018 - 2022)
-- **High School Diploma** from XYZ High School (2014 - 2018)
-
 ## 🎯 Projects
-- [Project 1](https://example.com/project1) - Short project description
-
+- [Loop d'Abord](https://github.com/karentamr/loop-dabord) - Easy-to-use, web-based pedal looper application designed for live music practice, offering features such as recording, playing and deleting seamless audio loops, adjustable master loop length and speed, and custom crossfade timings.
