@@ -1,4 +1,4 @@
-![Header Image](https://example.com/your-image-url.png)
+![Header Image](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 
 # Hi there, I'm [Your Name](https://example.com)
 
