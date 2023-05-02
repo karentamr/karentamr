@@ -16,8 +16,6 @@ A passionate MERN stack developer from [Montreal, Canada](http://www.vanishingmo
 |             |                            | ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) | ![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a) |
 |             |                            |                             | ![Express](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)    |
 |             |                            |                             | ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)     |
-|             |                            |                             | ![HTML5](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)         |
-|             |                            |                             | ![CSS3](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)           |
 
 
 ## &#x1f4c8; GitHub Stats
