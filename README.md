@@ -2,10 +2,6 @@
 
 # Hi there, I'm Karen Tamrazyan
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karentamr/)](https://www.linkedin.com/in/karentamr/)
-[![Github Badge](https://img.shields.io/badge/-YourUsername-grey?style=flat&logo=github&logoColor=white&link=https://github.com/karentamr)](https://www.github.com/YourUsername/)
-
-
 A passionate MERN stack developer from [Montreal, Canada](http://www.vanishingmontreal.com/).
 
 ## 🔧 Technologies & Tools
