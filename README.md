@@ -2,7 +2,7 @@
 
 # Hi there, I'm Karen Tamrazyan
 
-A passionate MERN stack developer from [Montreal, Canada](http://www.vanishingmontreal.com/).
+MERN Stack developer from [Montreal, Canada](http://www.vanishingmontreal.com/).
 
 ## 🎯 Capstone Project
 - [Loop d'Abord](https://github.com/karentamr/loop-dabord) - Easy-to-use, web-based pedal looper application designed for live music practice, offering features such as recording, playing and deleting seamless audio loops, adjustable master loop length and speed, and custom crossfade timings.
